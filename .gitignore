@@ -4,4 +4,5 @@ a1.zip
 a2.zip
 a3.zip
 a4.zip
-
+*.npy
+*.pickle
